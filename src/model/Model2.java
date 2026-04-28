@@ -1,5 +1,7 @@
 package model;
 
+// 12S24012 - Choqy Pananda Sirait
+
 import java.util.ArrayList;
 
 public class Model2 {

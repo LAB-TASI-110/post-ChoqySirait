@@ -1,5 +1,7 @@
 package model;
 
+// 12S24012 - Choqy Pananda Sirait
+
 public class Model3 {
 
     // ===== T01 =====
