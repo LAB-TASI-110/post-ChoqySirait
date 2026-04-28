@@ -1,0 +1,17 @@
+1) berikut adalah untuk T02
+
+Sekarang buatlah kode program dalam bahasa java, dimana terlihat pada gambar bahwa program yang sekarang dikerjakan adalah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta. tidak ada kekhususan khusus baik pada frame work nya, library dan lainnya. java yang saya gunakan juga JDK. jika bisa dan memungkinkan(tidak harus) terapkanlah konsep inheritance,polymorphism, dan sebagainya pada kode program bahasa java yang akan kamu berikan.
+
+untuk inputnyannya (struktur dan format) nanti sebagai berikut sebagaimana terlihat pada gambar :
+input :
+Jumlah total data (N).
+Deret stok (s1, s2, ..., sN).
+Kode kategori barang.
+
+Dan untuk outputnya nanti jangan menggunakan "---" atau "===" dan lain nnya cukup polos saja namun diberikan spasi jika ingin menginput line baru dan pisahkan line baru juga untuk input dan outputnya agar terlihat rapi
+
+jadi berikanlah kode dalam bahasa java yang benar baik pada model nya yang mungkin akan dimdoifikasi kembali atau ditambah dari model sebelumnnya, jadi untuk model yang digunakan ini akan sama untuk T02 dan T03 nantinya sehingga berikanlah kode yang sangat tepat dengan yang diminta pada soal dan untuk T02 ini akan berada didriver2. Tidak ada batasan khusus cukup berikan kode yang sesuai dengan tugas pada T02.md
+
+Saya ingin kamu menjadi persona senior programmer yang sudah mendalami peran dan memahami coding secara expert sehingga pada kode kode yang nanti kamu berikan, buatlah komentar penjelasan "//" pada setiap baris kode agar saya mudah dalam memahami kode yang akan kamu berikan.
+
+2) berikut ini adalah model model yang kamu berikan sebelumnnya dan akan satu model untuk tugas selanjutnya dan tugas T02 ini, sehingga berikanlah kodenya yang tidak mengganggu kode berikut dan driver1 yang sebelumnnya

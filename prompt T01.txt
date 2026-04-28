@@ -1,0 +1,15 @@
+1) Buatlah kode dalam bahasa java dengan tools yang sesuai dengan apa yang diminta pada soal. dimana terlihat pada T01.md nya input dan output yang diharapkan. kemudian untuk library yang digunakan itu bebas asal memenuhi kriteria dan sesuai dengan yang diminta pada program tanpa ada yang terlalu dilebih lebihkan, nah kemudian struktur dan format nya sudah ada pada T01.md.
+Tidak ada batasan khusus baik framework,library,maupun tools nya yang oenting sesuai dengan soal yang diminta. kemudian nantinya ini akan berlanjut ke T02 dan T03 jadi kamu harus benar benar memahami kode dan alurnya.
+untuk modelnya ada 3 model berikanlah ke tiga model terlebih dahulu kemudian kode pada driver secara berurutan agar pada model selesai dan kode pun selesai dengan baik. Saya ingin kamu menjadi senior programmer yang mengerjakan tugas ini dengan sempurna, dan kamu memberikan komentar penjelasan pada baris kode yang menurut kamu perlu diberikan penjelasan agar ketika saya membaca atau mencoba memahami kode, saya akan mudah dalam memahami kode tersebut.
+
+2)apakah untuk perbandingan sudah kamu terapkan? apakah seluruh pada png sudah kamu terapkan kedalam kode? dan apakah menurut kamu kode yang kamu berikan sudah tepat?
+
+karena saya ingin kode dalam bahasa java yang menyelesaikan permasalahan tersebut berdasarkan dari gambar (png) yang ada kemudian berdasarkan isi soalnya yaitu T01. Tidak ada batasan khusus pada kode yang penting sesuai dengan yang diminta dan untuk output ada batasan khusus yaitu tanda seperti "---" ''===" dan lainnya cukup :
+
+output :
+Struk Pembayaran :
+"isinya yang diminta"
+
+periksalah kembali kode yang kamu berikan baik model dan drivernya agar sesuai dengan soal tersebut
+
+3)sempurnakan t01

@@ -1,0 +1,37 @@
+1) sekarang buatlah program yaitu sebuah sistem yang mendukung operasional kafetaria IT Del.
+
+Kafetaria It Del menyediakan banyak makanan dan minuman contohnya yaitu Bakwan Goreng(BG),Tempe Goreng(TG), Nugget Goreng(NG), Nasi Goreng(NSG), Pisang Coklat(PC), dan lainnya 
+serta minuman seperti Coklat Dingin(CD), Coklat Panas(CP), Matcha(MC), Kopi(K), dan lainnya.
+Buatlah program dalam bahasa java yang dimana akan meminta inputan user dan menyediakan harga nya nanti pada list. untuk harga kamu bisa buat random dari 10-15 ribu.
+
+Pada program berikut tidak ada batasana yang spesifik digunakan yang penting sesuai dengan kriteria dan struktur format input output yang saya berikan sebagai berikut :
+
+Input :
+< Program akan menampilkan pilihan ketika dijalankan jadi nanti untuk makanan ada tabel opsi nya dan minuman juga, serta nanti ini adalah inputan yang akan meminta makanan dan minuman hingga user memberikan "---" pada case makanan untuk lanjut keminuman dan jika minuman juga sudah maka akan menginput "---" untuk memberhentikan program :
+Makanan : 
+1.
+2.
+.
+.
+.
+n. Opsi lainnya (akan meminta inputan nama makanan)
+
+Minuman :
+1.
+2.
+.
+.
+.
+n. Opsi lainnya (akan meminta inputan nama makanan)
+
+dan jika makanan dan minuman tidak terdapat pada list maka bisa menginput sendiri pada pilihan ke n yang akan berupa inputan string dan harganya buat saja 15 ribu untuk semua pesanan.
+
+kemudian untuk output nya :
+<makanan yang dipilih/input> : <harga>
+<minuman yang dipilih/input> : <harga>
+Total harga : <harga>
+dimana ini perbaris sesuai berapa jumlah makanan yang dipilih. kemudian untuk batasan program tidak ada yang penting sesuai dengan format dan prompt yang saya berikan. kemudian saya ingin kamu sebagai expert programmer yang memberikan kode yang jelas dan sesuai dengan yang diinginkan serta berikanlah penjelasan pada baris program dengan komentar "//"
+
+2)Untuk modelnya sendiri berdasarkan model yang sebelum sebelumnnya, apakah tidak perlu dimasukkan kedalam model tersebut baik model 1,2 atau 3?
+3) REFACTOR T03 ke MODEL yang tidak menggangu atau berdampak error bagi program yang sudah ada, berikanlah kode secara keseluruhan
+
